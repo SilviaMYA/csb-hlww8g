@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://silviamya.github.io/csb-hlww8g/static/css/main.1b47d07d.chunk.css",
+    "main.js": "https://silviamya.github.io/csb-hlww8g/static/js/main.e41fe574.chunk.js",
+    "main.js.map": "https://silviamya.github.io/csb-hlww8g/static/js/main.e41fe574.chunk.js.map",
+    "runtime-main.js": "https://silviamya.github.io/csb-hlww8g/static/js/runtime-main.ec6a4684.js",
+    "runtime-main.js.map": "https://silviamya.github.io/csb-hlww8g/static/js/runtime-main.ec6a4684.js.map",
+    "static/js/2.fe033e81.chunk.js": "https://silviamya.github.io/csb-hlww8g/static/js/2.fe033e81.chunk.js",
+    "static/js/2.fe033e81.chunk.js.map": "https://silviamya.github.io/csb-hlww8g/static/js/2.fe033e81.chunk.js.map",
+    "index.html": "https://silviamya.github.io/csb-hlww8g/index.html",
+    "static/css/main.1b47d07d.chunk.css.map": "https://silviamya.github.io/csb-hlww8g/static/css/main.1b47d07d.chunk.css.map",
+    "static/js/2.fe033e81.chunk.js.LICENSE.txt": "https://silviamya.github.io/csb-hlww8g/static/js/2.fe033e81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6a4684.js",
+    "static/js/2.fe033e81.chunk.js",
+    "static/css/main.1b47d07d.chunk.css",
+    "static/js/main.e41fe574.chunk.js"
+  ]
+}
